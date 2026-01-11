@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Service
+include_in_header: false
+---
+
 # Terms of Service
 
 _Last updated: 11 January 2026_
