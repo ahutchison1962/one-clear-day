@@ -12,7 +12,7 @@ One Clear Day (“the app”, “we”, “us”) is designed to be private by d
 This Privacy Policy explains what data the app uses, how it is stored, and the choices you have.
 
 If you have any questions about this policy, you can contact us at:  
-**support@ppsdigitalmarketing.com**
+**info@ppsdigitalmarketing.com**
 
 ---
 
@@ -119,4 +119,4 @@ Any material changes will be reflected here before new features are enabled.
 
 If you have questions or concerns about privacy or data handling, you can contact us at:
 
-**support@ppsdigitalmarketing.com**
+**info@ppsdigitalmarketing.com**
