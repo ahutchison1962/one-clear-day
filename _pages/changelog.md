@@ -1,65 +1,88 @@
 ---
 layout: page
-title: What's New
+title: Why This Works
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+# Why This Works
 
-<br>
+This isn't a productivity app.
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+It's a way to act with clarity once per day — without pressure.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+---
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## One thing, on purpose
 
-<br>
+Doing one meaningful thing beats planning ten.
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+Attention is finite. Follow-through builds trust.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+---
 
-<br>
+## Identity before action
 
-________
-<br>
+You don't start with goals.
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+You start by choosing who you're being today.
 
-<br>
+Actions are small proofs of identity — not tasks to optimise.
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+---
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## Values bias behaviour, not outcomes
 
-<br>
+The values here aren't targets or aspirations.
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+They gently shape how you act today — without comparison or metrics.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+---
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+## No streaks. No guilt. No catch-up
 
-<br>
+Missed days don't break anything.
+
+You simply choose again.
+
+---
+
+## Reflection closes the loop
+
+You don't measure performance.
+
+You acknowledge what counted.
+
+---
+
+## The principles behind this
+
+This approach draws from well-established behavioural principles found in modern habit and psychology research — particularly the ideas that:
+
+- identity shapes behaviour
+- small actions compound
+- intrinsic motivation outlasts pressure
+- reflection reinforces consistency
+
+The app applies these ideas quietly, without teaching or tracking them.
+
+---
+
+## If this feels too simple
+
+That's intentional.
+
+This app is for people who want fewer decisions —
+
+and better ones.
+
+---
+
+## Further Reading
+
+These principles draw from:
+
+- [Atomic Habits — James Clear](https://amzn.to/3L6OJic)
+- [The 7 Habits of Highly Effective People — Stephen Covey](https://amzn.to/3YCoRxE)
+- [The Power of Now — Eckhart Tolle](https://amzn.to/4qGwJdo)
+- [How to Win Friends and Influence People — Dale Carnegie](https://amzn.to/49x0GWr)
+- [The Subtle Art of Not Giving a F*ck — Mark Manson](https://amzn.to/4jFmnbE)
